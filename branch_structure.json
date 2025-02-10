@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "ft/add-black-mode",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "ft/add-black-mode": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "ft/add-black-mode",
+    "origin"
+  ]
+}
